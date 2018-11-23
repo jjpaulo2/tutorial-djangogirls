@@ -17,6 +17,9 @@
   font-size: 20pt;
   font-family: 'Oswald', sans-serif;
 }
+.descricao-blog a {
+  color: #4D450E;
+}
 .icones {
   font-size: 50pt;
   color: white;
