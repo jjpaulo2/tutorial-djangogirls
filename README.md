@@ -5,18 +5,18 @@ Um blog desenvolvido utilizando apenas Python durante o tutorial do Django Girls
 
 ![](./docs/print_postagens.png "Página de postagens")
 
-[Clique aqui]("https://tutorial.djangogirls.org/pt/") para acessar o tutorial oficial do Django Girls.
+[Clique aqui](https://tutorial.djangogirls.org/pt/) para acessar o tutorial oficial do Django Girls.
 
 ### Tecnologias utilizadas
-- [Python]("https://www.python.org/")
-- [Django (Framework)]("https://www.djangoproject.com/")
-- [Bootstrap (Framework)]("https://getbootstrap.com/")
+- [Python](https://www.python.org/)
+- [Django (Framework)](https://www.djangoproject.com/)
+- [Bootstrap (Framework)](https://getbootstrap.com/)
 
 ### Editores de texto
 Qual escolher? Experimente todos e escolha aquele no qual você mais se sentir confortável em programar.
-- [Atom]("https://atom.io/")
-- [Sublime Text]("https://www.sublimetext.com/")
-- [Visual Studio Code]("https://code.visualstudio.com/")
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 ---
 ### Processo de execução
 Primeiro, você deve criar um usuário para ter acesso ao `/admin`. Para isso, acesse a pasta do projeto através do `CMD` do Windows ou `terminal` do Linux ou MacOS, execute o seguinte comando e siga os passos.
