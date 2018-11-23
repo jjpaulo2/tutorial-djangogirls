@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Oswald');
+
+.corpo, .barra-superior {
+  background-color: #B0A241;
+}
+
+.titulo-blog, .descricao-blog {
+  color: white;
+  text-align: center;
+}
+.titulo-blog {
+  font-family: 'Lobster', cursive;
+  font-size: 80pt;
+  margin: 10% 0 20px 0;
+}
+.descricao-blog {
+  font-size: 20pt;
+  font-family: 'Oswald', sans-serif;
+}
+.icones {
+  font-size: 50pt;
+  color: white;
+  width: 240px;
+  margin: 0 auto 0 auto;
+}
+.botao-entrar {
+  font-size: 20pt;
+  padding: 20px;
+  width: 200px;
+  border-radius: 40px;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.titulo-blog2 {
+  font-family: 'Lobster', cursive;
+  font-size: 18pt;
+}
+.nav-link {
+  font-family: 'Oswald', sans-serif;
+}
